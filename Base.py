@@ -18,3 +18,4 @@ def menu():
     elif opc == 2:
         resta()
 menu()
+print("Hola Perros")
