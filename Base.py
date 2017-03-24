@@ -19,3 +19,6 @@ def menu():
         resta()
 menu()
 print("Hola Perros")
+
+if menu() == 1:
+    print("tengo hambre")
