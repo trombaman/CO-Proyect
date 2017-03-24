@@ -21,4 +21,4 @@ menu()
 print("Hola Perros")
 
 if menu() == 1:
-    print("tengo hambre")
+    print("tengo hambre x2")
